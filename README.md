@@ -1,5 +1,3 @@
-
-# SER-053
 ## ReadUp - Online Book Selling Platform
 
 ## Project Description
